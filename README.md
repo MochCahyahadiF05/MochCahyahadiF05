@@ -24,8 +24,5 @@
 
 ---
 
-
----
-
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cahyahadi_0182)
