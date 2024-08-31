@@ -15,8 +15,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
-![Blade](https://img.shields.io/badge/-Blade-E34F26?style=flat&logo=blade&logoColor=white) 
-![SCSS](https://img.shields.io/badge/-SCSS-C69?style=flat&logo=sass&logoColor=white)
+![Blade](https://img.shields.io/badge/-Blade-E34F26?style=flat&logo=blade&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
 
 ---
 
